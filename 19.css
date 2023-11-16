@@ -1,0 +1,117 @@
+.step{
+    background-color: rgb(222, 206, 235);
+    width: 700px;
+    height: 370px;
+    border-radius: 20px;
+}
+.step1{
+    margin: 20px;
+}
+.img1{
+    border-radius: 30px;
+    margin: 10px;
+}
+.txt{
+    font-family: 'Pacifico', cursive;
+    color:  rgb(193, 117, 255);
+    margin-left: 37.5%;
+}
+.spinner-border{
+    background-color: rgb(193, 117, 255);
+}
+.card{
+    display: inline-block;
+    margin-left: 55px;
+    margin-top: 100px;
+
+}
+.foot{
+    width: 100%;
+    height: 60px;
+    background-color:  rgb(222, 206, 235);
+    text-align: center;
+}
+.rt{
+    margin-left: 90%;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+.glav{
+    font-family: 'Pacifico', cursive;
+    margin-left: 410px;
+    border-radius: 50px;
+    border-color: rgb(255, 78, 231);
+    width: 200px;
+    height: 50px;
+}
+.glav1{
+    font-family: 'Pacifico', cursive;
+    margin-left: 50px;
+    border-radius: 50px;
+    border-color: rgb(255, 78, 231);
+    width: 200px;
+    height: 50px;
+}
+.glav2{
+    font-family: 'Pacifico', cursive;
+    margin-left: 50px;
+    border-radius: 50px;
+    border-color: rgb(255, 78, 231);
+    width: 200px;
+    height: 50px;
+}
+.glav3{
+    font-family: 'Pacifico', cursive;
+    margin-left: 50px;
+    border-radius: 50px;
+    border-color: rgb(255, 78, 231);
+    width: 200px;
+    height: 50px;
+}
+body{
+    background: #E2ADE7;
+}
+.map{
+    margin-left: 600px;
+}
+.gr22{
+    margin-left: 300px;
+}
+.gr21{
+    margin-left: 450px;
+}
+.hh{
+    margin-left: 300px;
+}
+.vot{
+    font-family: 'Pacifico', cursive;
+    margin-left: 700px;
+    width: 120px;
+    height: 120px;
+    border-color: rgb(255, 78, 231);
+    border-radius: 350px;
+    text-align: center;
+}
+.auto1{
+    margin-top: 100px;
+    width: 1150px;
+    height: 800px;
+    background-color:  rgb(177, 108, 168);
+    margin-left: 350px;
+    border-radius: 50px;
+}
+.kab{
+    font-family: 'Pacifico', cursive;
+    margin-left: 50px;
+    border-radius: 50px;
+    border-color: rgb(255, 78, 231);
+    width: 200px;
+    height: 50px;
+    margin-left: 657px;
+    margin-top: 20px;
+}

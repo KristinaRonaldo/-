@@ -1,0 +1,72 @@
+body{
+    background: #E2ADE7
+}
+
+.obl{
+   margin-left: 810px;
+}
+.glav{
+    font-family: 'Pacifico', cursive;
+    color:  rgb(193, 117, 255);
+    margin-left: 39%;
+    font-size: 50px;
+    width: 400px;
+    height: 100px;
+    background-color: aliceblue;
+    text-align: center;
+    border-radius: 50px;
+}
+.vse{
+    font-family: 'Pacifico', cursive;
+    width: 1000px;
+    height: 1000px;
+    background-color: rgba(241, 175, 239, 0.72);;
+    margin-left: 450px;
+    border-radius: 50px;
+    filter: drop-shadow(5px 5px 20px rgba(0, 0, 0, 0.25));
+    margin-top: 50px;
+}
+.fon{
+    background-color: white;
+    width: 500px;
+    height: 400px;
+    margin-left: 250px;
+    border-radius: 50px;
+    text-align: center;
+}
+.fon1{
+    background-color: white;
+    width: 500px;
+    height: 50px;
+    margin-left: 250px;
+    border-radius: 50px;
+    text-align: center;
+    margin-top: 50px;
+}
+.fon2{
+    background-color: white;
+    width: 500px;
+    height: 50px;
+    margin-left: 250px;
+    border-radius: 50px;
+    text-align: center;
+    margin-top: 50px;
+}
+.fon3{
+    background-color: white;
+    width: 500px;
+    height: 50px;
+    margin-left: 250px;
+    border-radius: 50px;
+    text-align: center;
+    margin-top: 50px;
+}
+.fon4{
+    background-color: white;
+    width: 500px;
+    height: 50px;
+    margin-left: 250px;
+    border-radius: 50px;
+    text-align: center;
+    margin-top: 50px;
+}

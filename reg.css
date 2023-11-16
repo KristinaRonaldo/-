@@ -1,0 +1,85 @@
+
+
+body{
+    background: #E2ADE7
+}
+
+.obl{
+   margin-left: 810px;
+}
+.container{
+  display:flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  border-radius: 50px;
+  margin-left: 500px;
+width: 814px;
+height: 800px;
+flex-shrink: 0;
+background-color: rgba(241, 175, 239, 0.72);
+filter: drop-shadow(5px 5px 20px rgba(0, 0, 0, 0.25));
+margin-top: 50px;
+}
+
+.ima{
+  width: 497px;
+  height: 55px;
+  flex-shrink: 0;
+  background-color: rgb(241, 234, 234);
+  border-radius: 39px;
+  margin-left: 150px;
+  margin-top: 80px;
+  text-align: center;
+}
+.ima1{
+    width: 497px;
+    height: 55px;
+    flex-shrink: 0;
+    background-color: rgb(241, 234, 234);
+    border-radius: 39px;
+    margin-left: 150px;
+    margin-top: 50px;
+    text-align: center;
+}        
+.ima2{
+    width: 497px;
+    height: 55px;
+    flex-shrink: 0;
+    background-color: rgb(241, 234, 234);
+    border-radius: 39px;
+    margin-left: 150px;
+    margin-top: 50px;
+    text-align: center;
+}
+.ima3{
+    width: 497px;
+    height: 55px;
+    flex-shrink: 0;
+    background-color: rgb(241, 234, 234);
+    border-radius: 39px;
+    margin-left: 150px;
+    margin-top: 50px;
+    text-align: center;
+}
+.ima4{
+    width: 170px;
+    font-size: 9pt;
+   margin-top: 25px;
+   margin-left: 470px;
+}
+
+.ima5{
+width: 216px;
+height: 79px;
+flex-shrink: 0;
+background-color: rgb(241, 234, 234);
+  border-radius: 39px;
+margin-left: 300px;
+margin-top: 50px;
+}
+
+.analog{
+   
+   margin-left: 250px; 
+
+}
